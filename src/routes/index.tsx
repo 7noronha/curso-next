@@ -1,9 +1,3 @@
-export default function Routes() {
-    return (
-        <div>
-            <h1>
-                Rotas
-            </h1>
-        </div>
-    )
-}
+export default function Page() {
+    return <h1>Hello, Next.js!</h1>
+  }
